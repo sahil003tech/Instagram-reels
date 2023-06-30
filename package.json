@@ -18,7 +18,7 @@
     "react-native-heroicons": "^3.2.0",
     "react-native-icons": "^0.7.1",
     "react-native-svg": "13.4.0",
-    "react-native-swiper-flatlist": "^3.2.2",
+    "react-native-swiper-flatlist": "^3.2.3",
     "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
